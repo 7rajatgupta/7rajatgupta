@@ -38,8 +38,10 @@ const expertise =
 
 
 ---
-
+<p align="center">
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=7rajatgupta&layout=compact" alt="git-stats" />
+</p>
+
 
 ---
 
