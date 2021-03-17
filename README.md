@@ -33,7 +33,7 @@ const expertise =
 
 ```
 
- <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=7rajatgupta&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/7rajatgupta"/>
+<!-- <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=7rajatgupta&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/7rajatgupta"/> !-->
 
 
 
@@ -44,7 +44,7 @@ const expertise =
 ---
 
 <center>
-  <h4 align="center">SIKE ! Gotta go... </h4>
+  <h4 align="center">SIKE ! Gotta go... 🙅🏻‍♂️</h4>
   <p align="center"> 
   <img src="https://uploads-ssl.webflow.com/59a79980dd2379000163014e/5b9ffafe9819e8e3b9fd1efe_CozyCal_Chris%27s%20mode%201.gif" align="center" height="300px" />
   </p>
