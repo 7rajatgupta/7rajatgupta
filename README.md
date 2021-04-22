@@ -1,7 +1,8 @@
 <p align="center">
-<br><img src="./img/dev-work.gif" width="280px"><br><br>
+<br><img src="./img/friday-developer.gif" width="280px"><br><br>
 </p>
-<h3 align="right">Connect with me :</h3>
+<!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
+<h3 align="right">Get Social :</h3>
 <a href="https://linkedin.com/in/7rajatgupta">
   <img align="right" alt="Rajat Gupta - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
@@ -9,6 +10,7 @@
   <img align="right"  alt="Rajat Gupta - Substack" src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/810518bd-f11e-4814-ad4c-c4bdfab6b2eb_1000x1000.png" width="22px">
 </a>
 <br/>
+<!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 <br/>
 <h1 align="center" id="rg-tech-stack">Hello 🤚 &nbsp | &nbsp Hola 🖖 &nbsp | &nbsp नमस्ते 🙏 &nbsp | &nbsp Ciao 🤌 &nbsp | &nbsp Bonjour 👋</h1>
 
@@ -16,7 +18,7 @@
 <!-- <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=7rajatgupta&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/7rajatgupta"/> !-->
 
 <h2 align="left">Skills & Expertise</h2>
-
+<!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 <table>
   <tr>
     <td align="center" width="96">
@@ -160,20 +162,25 @@
     </td>
   </tr>
 </table>
-
+<!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 ---
 <p align="center">
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=7rajatgupta&layout=compact" alt="git-stats" />
 </p>
 
-
+<!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 ---
 
 <center>
-  <h4 align="center">SIKE ! Gotta go... 🙅🏻‍♂️</h4>
+  <h4 align="center"> Gotta go now... 🙅🏻‍♂️ </h4>
   <p align="center"> 
   <img src="https://uploads-ssl.webflow.com/59a79980dd2379000163014e/5b9ffafe9819e8e3b9fd1efe_CozyCal_Chris%27s%20mode%201.gif" align="center" height="300px" />
   </p>
-  
+  <p align="center"> 
+  <img src="./img/cssgif.gif" align="center" height="300px" />
+  </p>
+  <h4 align="center">Don't Worry, I'll fix your CSS 😎 </h4>
 </center>
+<!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
+--- 
 <p align="center"> © Rajat Gupta </p>
