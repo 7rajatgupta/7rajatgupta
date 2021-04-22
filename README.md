@@ -1,5 +1,5 @@
 <p align="center">
-<br><img src="./img/friday-developer.gif" width="280px"><br><br>
+<br><img src="./img/friday-developer.gif" width="400px"><br><br>
 </p>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 <h3 align="right">Get Social :</h3>
