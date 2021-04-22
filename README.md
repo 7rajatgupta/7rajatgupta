@@ -20,141 +20,141 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/python-original.svg" width="75" height="75" alt="Python" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/bash-1.svg" width="75" height="75" alt="Bash" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/typescript-original.svg" width="75" height="75" alt="TS" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/react-original.svg" width="75" height="75" alt="React" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/redux.svg" width="75" height="75" alt="Redux" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/express.svg" width="75" height="75" alt="Express" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack" >
+      <a href="#" >
         <img src="./img/nodejs-1.svg" width="75" height="75" alt="Node" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/spring-3.svg" width="75" height="75" alt="Spring" />
       </a>
     </td>
     <td align="center" width="96"> 
-      <a href="#rg-tech-stack" >
+      <a href="#" >
         <img src="./img/storybook-icon.svg" width="75" height="75" alt="SB" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#rg-tech-stack" >
+      <a href="#" >
         <img src="./img/bootstrap-plain.svg" width="75" height="75" alt="BS" />
       </a>
     </td>
     <td align="center"  width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/figma-1.svg" width="75" height="75" alt="Figma" />
       </a>
     </td>
     <td align="center"  width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/sass-original.svg" width="75" height="75" alt="SASS" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/ant-design.svg" width="75" height="75" alt="AntD" />
       </a>
     </td>
     <td align="center"  width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/docker-original.svg" width="75" height="75" alt="Docker" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack" >
+      <a href="#" >
         <img src="./img/kubernetes-icon-color.svg" width="75" height="75" alt="K8" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack" >
+      <a href="#" >
         <img src="./img/google-cloud-1.svg" width="75" height="75" alt="GCP" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/elastic-kibana.svg" width="75" height="75" alt="ELK" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/prometheus.svg" width="75" height="75" alt="Prometheus" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/terraformio-icon.svg" width="75" height="75" alt="Terraform" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/ansible.svg" width="75" height="75" alt="Ansible" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/Fluentd_icon.svg" width="75" height="75" alt="FluentD" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/rabbitmq.svg" width="75" height="75" alt="RabbitMQ" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack" >
+      <a href="#" >
         <img src="./img/jenkins-1.svg" width="75" height="75" alt="jen" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/gocd.svg" width="75" height="75" alt="Go" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/invision.svg" width="75" height="75" alt="invision" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/debian-original.svg" width="75" height="75" alt="deb" />
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#rg-tech-stack">
+      <a href="#">
         <img src="./img/redhat-original.svg" width="75" height="75" alt="rh" />
       </a>
     </td>
