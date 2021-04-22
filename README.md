@@ -17,7 +17,7 @@
 
 <h2 align="left" id="rg-tech-stack">Skills & Expertise</h2>
 
-<table style="border-radius: 1rem;">
+<table>
   <tr>
     <td align="center" width="96">
       <a href="#rg-tech-stack">
@@ -59,13 +59,13 @@
         <img src="./img/spring-3.svg" width="75" height="75" alt="Spring" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#rg-tech-stack" >
         <img src="./img/storybook-icon.svg" width="75" height="75" alt="SB" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#rg-tech-stack" >
         <img src="./img/bootstrap-plain.svg" width="75" height="75" alt="BS" />
@@ -101,8 +101,6 @@
         <img src="./img/google-cloud-1.svg" width="75" height="75" alt="GCP" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#rg-tech-stack">
         <img src="./img/elastic-kibana.svg" width="75" height="75" alt="ELK" />
@@ -113,6 +111,8 @@
         <img src="./img/prometheus.svg" width="75" height="75" alt="Prometheus" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#rg-tech-stack">
         <img src="./img/terraformio-icon.svg" width="75" height="75" alt="Terraform" />
@@ -143,8 +143,6 @@
         <img src="./img/gocd.svg" width="75" height="75" alt="Go" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#rg-tech-stack">
         <img src="./img/invision.svg" width="75" height="75" alt="invision" />
