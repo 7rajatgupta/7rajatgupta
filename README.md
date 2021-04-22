@@ -10,12 +10,12 @@
 </a>
 <br/>
 <br/>
-<h2 align="center">Hello  |  Hola  |  नमस्ते🙏🏻 | Bonjour 👋</h1>
+<h1 align="center">Hello 🤚 &nbsp | &nbsp Hola 🖖 &nbsp | &nbsp नमस्ते 🙏🏻 &nbsp | &nbsp Ciao 🤌 &nbsp | &nbsp Bonjour 👋</h1>
 
 
 <!-- <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=7rajatgupta&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/7rajatgupta"/> !-->
 
-<h2 align="left" id="macropower-tech">Skills & Expertise</h2>
+<h2 align="left" id="rg-tech-stack">Skills & Expertise</h2>
 
 <table style="border-radius: 1rem;">
   <tr>
@@ -162,7 +162,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 <p align="center">
