@@ -163,24 +163,29 @@
   </tr>
 </table>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
+
 ---
+
 <p align="center">
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=7rajatgupta&layout=compact" alt="git-stats" />
 </p>
 
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
+
 ---
 
 <center>
   <h4 align="center"> Gotta go now... 🙅🏻‍♂️ </h4>
   <p align="center"> 
-  <img src="https://uploads-ssl.webflow.com/59a79980dd2379000163014e/5b9ffafe9819e8e3b9fd1efe_CozyCal_Chris%27s%20mode%201.gif" align="center" height="300px" />
+  <img src="https://uploads-ssl.webflow.com/59a79980dd2379000163014e/5b9ffafe9819e8e3b9fd1efe_CozyCal_Chris%27s%20mode%201.gif" align="center" width="400px" />
   </p>
   <p align="center"> 
-  <img src="./img/cssgif.gif" align="center" height="300px" />
+  <img src="./img/cssgif.gif" align="center" width="400px" />
   </p>
   <h4 align="center">Don't Worry, I'll fix your CSS 😎 </h4>
 </center>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
+
 --- 
+
 <p align="center"> © Rajat Gupta </p>
