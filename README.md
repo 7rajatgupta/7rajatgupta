@@ -167,9 +167,9 @@
 ---
 
 <p align="center">
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=7rajatgupta&layout=compact" alt="git-stats" />
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=7rajatgupta&theme=material-palenight&hide_border=true&background=0E1218" width = 700>
 </p>
-
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rajatgupta&layout=compact&theme=tokyonight" /> -->
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 
 ---
@@ -177,7 +177,7 @@
 <center>
   <h4 align="center"> Gotta go now... 🙅🏻‍♂️ </h4>
   <p align="center"> 
-  <img src="https://uploads-ssl.webflow.com/59a79980dd2379000163014e/5b9ffafe9819e8e3b9fd1efe_CozyCal_Chris%27s%20mode%201.gif" align="center" width="400px" />
+  <img src="https://uploads-ssl.webflow.com/59a79980dd2379000163014e/5b9ffafe9819e8e3b9fd1efe_CozyCal_Chris%27s%20mode%201.gif" align="center" width="300px" />
   </p>
   <p align="center"> 
   <img src="./img/cssgif.gif" align="center" width="400px" />
