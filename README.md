@@ -12,7 +12,9 @@
 <br/>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 <br/>
-<h1 align="center" id="rg-tech-stack">Hello 🤚 &nbsp | &nbsp Hola 🖖 &nbsp | &nbsp नमस्ते 🙏 &nbsp | &nbsp Ciao 🤌 &nbsp | &nbsp Bonjour 👋</h1>
+<h3 align="center">Hey👋, I'm currently working for <a href="https://www.kooapp.com">Koo India</a>, This is my personal account. </h3>
+<h5 align="center">For contact & discussion, shoot an <a href=mailto:7rajatgupta@gmail.com>email</a> to me</h5>
+<!--  <h1 align="center" id="rg-tech-stack">Hello 🤚 &nbsp | &nbsp Hola 🖖 &nbsp | &nbsp नमस्ते 🙏 &nbsp | &nbsp Ciao 🤌 &nbsp | &nbsp Bonjour 👋</h1> !-->
 
 
 <!-- <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=7rajatgupta&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/7rajatgupta"/> !-->
