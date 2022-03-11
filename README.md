@@ -1,17 +1,16 @@
 <p align="center">
-<br><img src="./img/friday-developer.gif" width="400px"><br><br>
+<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="500px">
 </p>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
-<h3 align="right">Get Social :</h3>
+<p align="center">
 <a href="https://linkedin.com/in/7rajatgupta">
-  <img align="right" alt="Rajat Gupta - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+  <img alt="Rajat Gupta - LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
 <a href="https://rajatgupta.substack.com">
-  <img align="right"  alt="Rajat Gupta - Substack" src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/810518bd-f11e-4814-ad4c-c4bdfab6b2eb_1000x1000.png" width="22px">
+  <img alt="Rajat Gupta - Substack" src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/810518bd-f11e-4814-ad4c-c4bdfab6b2eb_1000x1000.png" width="50px">
 </a>
-<br/>
+</p>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
-<br/>
 <h3 align="center">Hey👋, I'm currently working for <a href="https://www.kooapp.com">Koo India</a>, This is my personal account. </h3>
 <h5 align="center">For contact & discussion, shoot an <a href=mailto:7rajatgupta@gmail.com>email</a> to me</h5>
 <!--  <h1 align="center" id="rg-tech-stack">Hello 🤚 &nbsp | &nbsp Hola 🖖 &nbsp | &nbsp नमस्ते 🙏 &nbsp | &nbsp Ciao 🤌 &nbsp | &nbsp Bonjour 👋</h1> !-->
@@ -167,7 +166,6 @@
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 
 ---
-
 <p align="center">
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=7rajatgupta&theme=material-palenight&hide_border=true&background=0E1218" width = 700>
 </p>
@@ -177,14 +175,13 @@
 ---
 
 <center>
-  <h4 align="center"> Gotta go now... 🙅🏻‍♂️ </h4>
+<!--  <h4 align="center"> Gotta go now... 🙅🏻‍♂️ </h4>
   <p align="center"> 
   <img src="https://uploads-ssl.webflow.com/59a79980dd2379000163014e/5b9ffafe9819e8e3b9fd1efe_CozyCal_Chris%27s%20mode%201.gif" align="center" width="300px" />
-  </p>
+  </p> !-->
   <p align="center"> 
   <img src="./img/cssgif.gif" align="center" width="400px" />
   </p>
-  <h4 align="center">Don't Worry, I'll fix your CSS 😎 </h4>
 </center>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 
