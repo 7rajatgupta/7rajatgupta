@@ -165,13 +165,11 @@
 </table>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 
----
-<p align="center">
+<!-- <p align="center">
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=7rajatgupta&theme=material-palenight&hide_border=true&background=0E1218" width = 700>
-</p>
+</p> !-->
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rajatgupta&layout=compact&theme=tokyonight" /> -->
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
-
 ---
 
 <center>
@@ -183,6 +181,7 @@
   <img src="./img/cssgif.gif" align="center" width="400px" />
   </p>
 </center>
+<p align="center">Don't be like Peter, Let me fix your CSS</p>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 
 --- 
