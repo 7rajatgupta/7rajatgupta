@@ -11,8 +11,8 @@
 </a>
 </p>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
-<h3 align="center">Hey👋, I'm currently working for <a href="https://www.kooapp.com">Koo India</a>, This is my personal account. </h3>
-<h5 align="center">For contact & discussion, shoot an <a href=mailto:7rajatgupta@gmail.com>email</a> to me</h5>
+<h3 align="center">Hey👋, I'm currently working for <a href="https://www.vibecity.com">Vibecity</a>, This is my personal account. </h3>
+<h5 align="center">For contact & discussion, shoot an <a href=mailto:7rgdev@gmail.com>email</a> to me</h5>
 <!--  <h1 align="center" id="rg-tech-stack">Hello 🤚 &nbsp | &nbsp Hola 🖖 &nbsp | &nbsp नमस्ते 🙏 &nbsp | &nbsp Ciao 🤌 &nbsp | &nbsp Bonjour 👋</h1> !-->
 
 
