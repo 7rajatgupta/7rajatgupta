@@ -1,8 +1,13 @@
+<!--
 <p align="center">
 <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="500px">
 </p>
+!-->
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
-<p align="center">
+<h1 align="left">Hey there👋</h1>
+<h3 align="left">I'm currently brewing code for <a href="https://www.vibecity.com" target="_blank" rel="noopener">Vibecity</a></h3>
+<h5 align="left">For contact & discussion, shoot an <a href=mailto:7rgdev@gmail.com>email</a> to me</h5>
+<p align="left">
 <a href="https://linkedin.com/in/7rajatgupta">
   <img alt="Rajat Gupta - LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
@@ -11,8 +16,7 @@
 </a>
 </p>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
-<h3 align="center">Hey👋, I'm currently working for <a href="https://www.vibecity.com" target="_blank" rel="noopener">Vibecity</a> </h3>
-<h5 align="center">For contact & discussion, shoot an <a href=mailto:7rgdev@gmail.com>email</a> to me</h5>
+
 <!--  <h1 align="center" id="rg-tech-stack">Hello 🤚 &nbsp | &nbsp Hola 🖖 &nbsp | &nbsp नमस्ते 🙏 &nbsp | &nbsp Ciao 🤌 &nbsp | &nbsp Bonjour 👋</h1> !-->
 
 
@@ -20,11 +24,11 @@
 
 <h2 align="left">Skills & Expertise</h2>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/python-original.svg" width="75" height="75" alt="Python" />
+        <img src="./img/nextjs-icon.svg" width="75" height="75" alt="Python" />
       </a>
     </td>
     <td align="center" width="96">
@@ -59,7 +63,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/spring-3.svg" width="75" height="75" alt="Spring" />
+        <img src="./img/git.svg" width="75" height="75" alt="Spring" />
       </a>
     </td>
     <td align="center" width="96"> 
@@ -91,34 +95,34 @@
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="./img/docker-original.svg" width="75" height="75" alt="Docker" />
+        <img src="./img/material-ui.svg" width="75" height="75" alt="Docker" />
       </a>
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="./img/kubernetes-icon-color.svg" width="75" height="75" alt="K8" />
+        <img src="./img/tailwindcss-icon.svg" width="75" height="75" alt="K8" />
       </a>
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="./img/google-cloud-1.svg" width="75" height="75" alt="GCP" />
+        <img src="./img/webpack.svg" width="75" height="75" alt="GCP" />
       </a>
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/elastic-kibana.svg" width="75" height="75" alt="ELK" />
+        <img src="./img/chakra-ui.svg" width="75" height="75" alt="ELK" />
       </a>
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/prometheus.svg" width="75" height="75" alt="Prometheus" />
+        <img src="./img/styled-components.svg" width="75" height="75" alt="Prometheus" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/terraformio-icon.svg" width="75" height="75" alt="Terraform" />
+        <img src="./img/sentry.svg" width="75" height="75" alt="Terraform" />
       </a>
     </td>
     <td align="center" width="96">
@@ -128,12 +132,12 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/Fluentd_icon.svg" width="75" height="75" alt="FluentD" />
+        <img src="./img/docker-original.svg" width="75" height="75" alt="FluentD" />
       </a>
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/rabbitmq.svg" width="75" height="75" alt="RabbitMQ" />
+        <img src="./img/testing-library.svg" width="75" height="75" alt="RabbitMQ" />
       </a>
     </td>
     <td align="center" width="96">
@@ -158,11 +162,18 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/redhat-original.svg" width="75" height="75" alt="rh" />
+        <img src="./img/elastic-kibana.svg" width="75" height="75" alt="rh" />
       </a>
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=7rajatgupta&theme=material-palenight&hide_border=true&background=0E1218" width = 700>
+</p>
+
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 
 <!-- <p align="center">
