@@ -12,7 +12,7 @@
   <img alt="Rajat Gupta - LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
 <a href="https://rajatgupta.substack.com">
-  <img alt="Rajat Gupta - Substack" src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/810518bd-f11e-4814-ad4c-c4bdfab6b2eb_1000x1000.png" width="50px">
+  <img alt="Rajat Gupta - Substack" src="https://images.prismic.io/sacra/862ed108-b61e-4203-9cc8-61481f745ec8_ba81cfff-7bc5-4aef-866e-864d0942c42d_1000x1000.png?auto=compress,format" width="50px">
 </a>
 </p>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
