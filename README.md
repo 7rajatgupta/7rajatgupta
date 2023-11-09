@@ -5,7 +5,7 @@
 !-->
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 <h1 align="left">Hey there👋</h1>
-<h3 align="left">I'm currently brewing code for <a href="https://www.vibecity.com" target="_blank" rel="noopener">Vibecity</a></h3>
+<h3 align="left">Visit my website 👉 <a href="https://rajat-gupta.com" target="_blank" rel="noopener">Rajat's awesome Website</a></h3>
 <h5 align="left">For contact & discussion, shoot an <a href=mailto:7rgdev@gmail.com>email</a> to me</h5>
 <p align="left">
 <a href="https://linkedin.com/in/7rajatgupta">
