@@ -25,284 +25,148 @@
 <h2 align="left">Skills & Expertise</h2>
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 <table width="100%">
-      <tr>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"
-              width="75"
-              height="75"
-              alt="Python"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <!--         <img src="./img/bash-1.svg" width="75" height="75" alt="Bash" /> -->
-            <img
-              src="https://icons-for-free.com/download-icon-bash+dark-1331550886960171470_512.png"
-              width="75"
-              height="75"
-              alt="Bash"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"
-              width="75"
-              height="75"
-              alt="TS"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
-              width="75"
-              height="75"
-              alt="React"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"
-              width="75"
-              height="75"
-              alt="Redux"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
-              width="75"
-              height="75"
-              alt="Express"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"
-              width="75"
-              height="75"
-              alt="Node"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png"
-              width="75"
-              height="75"
-              alt="Spring"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://cms.digitalpolygon.com/sites/default/files/2022-07/storybook-logo.png"
-              width="75"
-              height="75"
-              alt="SB"
-            />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg"
-              width="75"
-              height="75"
-              alt="BS"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"
-              width="75"
-              height="75"
-              alt="Figma"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"
-              width="75"
-              height="75"
-              alt="SASS"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-ncocfg8e.png"
-              width="75"
-              height="75"
-              alt="AntD"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://v4.material-ui.com/static/logo.png"
-              width="75"
-              height="75"
-              alt="Docker"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"
-              width="75"
-              height="75"
-              alt="K8"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/webpack-icon.png"
-              width="75"
-              height="75"
-              alt="GCP"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://archive.org/download/github.com-chakra-ui-chakra-ui_-_2020-02-13_17-20-29/cover.jpg"
-              width="75"
-              height="75"
-              alt="ELK"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png"
-              width="75"
-              height="75"
-              alt="Prometheus"
-            />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://static-00.iconduck.com/assets.00/sentry-icon-2048x1839-1paq4am8.png"
-              width="75"
-              height="75"
-              alt="Terraform"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png"
-              width="75"
-              height="75"
-              alt="Ansible"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"
-              width="75"
-              height="75"
-              alt="FluentD"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://testing-library.com/img/octopus-128x128.png"
-              width="75"
-              height="75"
-              alt="RabbitMQ"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"
-              width="75"
-              height="75"
-              alt="jen"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://www.gocd.org/assets/images/gocd_continuous_delivery_thoughtworks_twitter-9cfe1828.jpg"
-              width="75"
-              height="75"
-              alt="Go"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://brandslogos.com/wp-content/uploads/images/large/invision-logo.png"
-              width="75"
-              height="75"
-              alt="invision"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png"
-              width="75"
-              height="75"
-              alt="deb"
-            />
-          </a>
-        </td>
-        <td align="center" width="96">
-          <a href="#">
-            <img
-              src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png"
-              width="75"
-              height="75"
-              alt="rh"
-            />
-          </a>
-        </td>
-      </tr>
-    </table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/nextjs-icon.svg" width="75" height="75" alt="Python" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/bash-1.svg" width="75" height="75" alt="Bash" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/typescript-original.svg" width="75" height="75" alt="TS" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/react-original.svg" width="75" height="75" alt="React" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/redux.svg" width="75" height="75" alt="Redux" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/express.svg" width="75" height="75" alt="Express" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./img/nodejs-1.svg" width="75" height="75" alt="Node" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/git.svg" width="75" height="75" alt="Spring" />
+      </a>
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="./img/storybook-icon.svg" width="75" height="75" alt="SB" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./img/bootstrap-plain.svg" width="75" height="75" alt="BS" />
+      </a>
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/figma-1.svg" width="75" height="75" alt="Figma" />
+      </a>
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/sass-original.svg" width="75" height="75" alt="SASS" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/ant-design.svg" width="75" height="75" alt="AntD" />
+      </a>
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/material-ui.svg" width="75" height="75" alt="Docker" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./img/tailwindcss-icon.svg" width="75" height="75" alt="K8" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./img/webpack.svg" width="75" height="75" alt="GCP" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/chakra-ui.svg" width="75" height="75" alt="ELK" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/styled-components.svg" width="75" height="75" alt="Prometheus" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/sentry.svg" width="75" height="75" alt="Terraform" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/ansible.svg" width="75" height="75" alt="Ansible" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/docker-original.svg" width="75" height="75" alt="FluentD" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/testing-library.svg" width="75" height="75" alt="RabbitMQ" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./img/jenkins-1.svg" width="75" height="75" alt="jen" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/gocd.svg" width="75" height="75" alt="Go" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/invision.svg" width="75" height="75" alt="invision" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/debian-original.svg" width="75" height="75" alt="deb" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/elastic-kibana.svg" width="75" height="75" alt="rh" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
