@@ -5,7 +5,7 @@
 !-->
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 <h1 align="left">Hey there👋</h1>
-<h3 align="left">Visit my website 👉 <a href="https://rajat-gupta.com" target="_blank" rel="noopener">Rajat's awesome Website</a></h3>
+<h5 align="left"><a href="https://rajat-gupta.com/articles" target="_blank" rel="noopener">Check out my latest blog</a></h5>
 <h5 align="left">For contact & discussion, shoot an <a href=mailto:7rgdev@gmail.com>email</a> to me</h5>
 <p align="left">
 <a href="https://linkedin.com/in/7rajatgupta">
@@ -181,20 +181,15 @@
 </p> !-->
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rajatgupta&layout=compact&theme=tokyonight" /> -->
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
----
 
 <center>
 <!--  <h4 align="center"> Gotta go now... 🙅🏻‍♂️ </h4>
   <p align="center"> 
   <img src="https://uploads-ssl.webflow.com/59a79980dd2379000163014e/5b9ffafe9819e8e3b9fd1efe_CozyCal_Chris%27s%20mode%201.gif" align="center" width="300px" />
   </p> !-->
-  <p align="center"> 
+<!--   <p align="center"> 
   <img src="./img/cssgif.gif" align="center" width="400px" />
-  </p>
+  </p> -->
 </center>
-<p align="center">Don't be like Peter, Let me fix your CSS</p>
+<!-- <p align="center">Don't be like Peter, Let me fix your CSS</p> -->
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
-
---- 
-
-<p align="center"> © Rajat Gupta </p>
