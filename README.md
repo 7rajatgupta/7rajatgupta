@@ -5,7 +5,7 @@
 !-->
 <!-- Hey Thief 🧐  Why you must copy my code ? UGGGHHHHHHHHHHHHHHHHH !-->
 <h1 align="left">Hey there👋</h1>
-<h5 align="left"><a href="https://rajat-gupta.com/articles" target="_blank" rel="noopener">Check out my latest blog</a></h5>
+<h5 align="left"><a href="https://rajat.bio/articles" target="_blank" rel="noopener">Check out my latest blog</a></h5>
 <h5 align="left">For contact & discussion, shoot an <a href=mailto:7rgdev@gmail.com>email</a> to me</h5>
 <p align="left">
 <a href="https://linkedin.com/in/7rajatgupta">
